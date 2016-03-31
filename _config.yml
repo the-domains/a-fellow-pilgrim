@@ -1,0 +1,28 @@
+name: a fellow pilgrim
+favicon: null
+layout_spectrum: 0.2876219351310283
+typography_spectrum: 0.8043356293346733
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9919731197878718
+  lightness: 0.2351542643737048
+  saturation: 0.08507629344239831
+  rhythmicContrast: 0.8362191917840391
+purpose: []
